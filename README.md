@@ -16,7 +16,7 @@ The application leverages an API to dynamically generate images. Threading has b
 
 ## Usage
 
-1. [Download the Executable](#) (link to executable release, if available).
+1. Executable can be downloaded by cloning this repository.
 2. Can be used across different devices(laptop/desktop) upon sharing the executable.
 
 ## Acknowledgments
