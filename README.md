@@ -32,7 +32,7 @@ I want to express my gratitude to Dashtoon for providing the opportunity to unle
 
 ## Video Showcase
 
-[Watch a video demonstration of the application](#) (link to the video, if available).
+[Watch a video demonstration of the application](https://drive.google.com/drive/folders/1vamr39Wm0jvTAbwsWI5tVkSg8nrA6ZzK?usp=sharing) (link to the video, if available).
 
 
 ---
