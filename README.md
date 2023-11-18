@@ -17,8 +17,14 @@ The application leverages an API to dynamically generate images. Threading has b
 ## Usage
 
 1. [Executable file can be downloaded from this link ](https://drive.google.com/drive/folders/1vamr39Wm0jvTAbwsWI5tVkSg8nrA6ZzK?usp=sharing)
-
 2. Can be used across different devices(laptop/desktop) upon sharing the executable.
+
+## Instructions for using the Executable
+
+1. You need to download the executable file zip version.
+2. Extract the content and open the "dist" folder.
+3. Inside it you have to open the App folder and search for "App.exe".
+4. Click on it and you are ready to go.
 
 ## Acknowledgments
 
@@ -30,6 +36,7 @@ I want to express my gratitude to Dashtoon for providing the opportunity to unle
 - **Executable:** Successfully converted the application into an executable.
 - **Hosting:** Faced challenges in hosting the application, particularly within the Qt5 context.
 - **Improvement Reflection:** Recognized the potential for improvement, particularly in spending more time on the text generation part and the lag faced while getting the first image.
+- **Fetching Image for API:** Sometimes the API does not respond and we have to wait for longer duration of time. I was not able to handle this properly but this can be improved upon.
 
 ## Video Showcase
 
