@@ -9,7 +9,7 @@ Hello! Welcome to Dashtoon_Webapp Project, a Python application built with the Q
 - "Next Page" button to move to next page for next panel creation.
 - Tab feature for seamless navigation between pages.
 - Shareable executable file which can be used across windows devices.
-- App.py contains the entire code that was used. The Qt5 ui page is also provided which was obtained from the Qt5 designer. This was then converted into python script for further use.
+- App.py contains the entire code that was used. The Qt5 Pg.ui page is also provided which was obtained from the Qt5 designer. This was then converted into python script for further use.
 
 ## API Integration
 
